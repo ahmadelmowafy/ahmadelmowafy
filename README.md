@@ -5,12 +5,7 @@ I'm a junior web developer who recently made the leap into tech after several ye
 ### 🔭 I’m currently working on:
 - Expanding my portfolio with new full-stack projects
 - Deepening my understanding of React and backend architecture
-- Writing cleaner, more scalable code (and loving the process!)
-
-### 🌱 I’m currently learning:
-- TypeScript
-- Testing with Jest and React Testing Library
-- Deployment and CI/CD workflows (Netlify, Vercel, GitHub Actions)
+- Writing cleaner, more scalable code
 
 ### 👯 I’m looking to collaborate on:
 - Open source projects that welcome new devs
